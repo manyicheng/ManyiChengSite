@@ -34,8 +34,9 @@ header h1{
     margin: 0;
     display: inline-block;
 }
-ion-icon {
-    color: white;
+
+a: i {
+    display: inline-block
 }
 
 a:hover i { 
