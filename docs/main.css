@@ -34,6 +34,9 @@ header h1{
     margin: 0;
     display: inline-block;
 }
+ion-icon {
+  color: white;
+}
 
 nav ul{
     margin: 0;
@@ -47,10 +50,6 @@ nav ul li{
     padding: 0px 20px;
     position: right;
     list-style-type: none;
-}
-nav ul li a {
-    color: beige;
-    
 }
 
 div {
