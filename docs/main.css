@@ -57,6 +57,10 @@ nav ul li{
     list-style-type: none;
 }
 
+nav ul li a {
+    color: beige;
+    
+}
 div {
     padding: 5px;
 }
