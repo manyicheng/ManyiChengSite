@@ -1,0 +1,74 @@
+/* @file main.css
+@author Manyi Cheng
+@brief CSS file defining styles for personal website.
+@date 26/01/2020 */
+
+header{
+    background: hsla(231, 100%, 1%, 0.966);
+    font-size: 30px;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    position: relative;
+}
+body {
+    background-image: linear-gradient(rgba(73, 123, 143, 0.253), rgba(75, 106, 116, 0.253)), url(back.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 1000px;
+    position: absolute;
+    left: 20%;
+    background-color: #fff;
+    font-family: Lato;
+    font-weight: 600;
+    font-size: 18px;
+    position: relative;
+    height: 150vh;
+    color: rgb(0, 0, 0);
+}
+.wrapper {
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+header h1{
+    margin: 0;
+    display: inline-block;
+}
+
+nav ul{
+    margin: 0;
+    display: inline-block;
+    padding:0 0 0 45%;
+    position: right;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    position: right;
+    list-style-type: none;
+}
+nav ul li a {
+    color: beige;
+    
+}
+
+div {
+    padding: 5px;
+}
+.row{
+    position: relative;
+}
+.col{
+    width: 100%;
+}
+.row:after{
+    float: right;
+}
+.contacts{
+    
+}
+footer{
+    float: right;
+    position: relative;
+}
