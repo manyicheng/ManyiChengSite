@@ -4,7 +4,7 @@
 @date 26/01/2020 */
 
 header{
-    background: white;
+    background: rgb(2, 49, 35);
     font-size: 30px;
     color: white;
     margin: 0;
@@ -35,7 +35,7 @@ header h1{
     display: inline-block;
 }
 ion-icon {
-  color: beige;
+  color: white;
 }
 
 nav ul{
@@ -50,10 +50,6 @@ nav ul li{
     padding: 0px 20px;
     position: right;
     list-style-type: none;
-}
-nav ul li a {
-    color: beige;
-    
 }
 
 div {
